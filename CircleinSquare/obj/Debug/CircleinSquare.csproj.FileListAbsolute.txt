@@ -1,0 +1,10 @@
+C:\Users\hamza\OneDrive\Desktop\Computer Graphics\CircleinSquare\CircleinSquare\obj\Debug\CircleinSquare.Properties.Resources.resources
+C:\Users\hamza\OneDrive\Desktop\Computer Graphics\CircleinSquare\CircleinSquare\obj\Debug\CircleinSquare.csproj.GenerateResource.cache
+C:\Users\hamza\OneDrive\Desktop\Computer Graphics\CircleinSquare\CircleinSquare\obj\Debug\CircleinSquare.csproj.CoreCompileInputs.cache
+C:\Users\hamza\OneDrive\Desktop\Computer Graphics\CircleinSquare\CircleinSquare\bin\Debug\CircleinSquare.exe.config
+C:\Users\hamza\OneDrive\Desktop\Computer Graphics\CircleinSquare\CircleinSquare\bin\Debug\CircleinSquare.exe
+C:\Users\hamza\OneDrive\Desktop\Computer Graphics\CircleinSquare\CircleinSquare\bin\Debug\CircleinSquare.pdb
+C:\Users\hamza\OneDrive\Desktop\Computer Graphics\CircleinSquare\CircleinSquare\obj\Debug\CircleinSquare.exe
+C:\Users\hamza\OneDrive\Desktop\Computer Graphics\CircleinSquare\CircleinSquare\obj\Debug\CircleinSquare.pdb
+C:\Users\hamza\OneDrive\Desktop\Computer Graphics\CircleinSquare\CircleinSquare\obj\Debug\CircleinSquare.csproj.AssemblyReference.cache
+C:\Users\hamza\OneDrive\Desktop\Computer Graphics\CircleinSquare\CircleinSquare\obj\Debug\CircleinSquare.csproj.SuggestedBindingRedirects.cache
